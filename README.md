@@ -26,7 +26,7 @@ wget https://github.com/ceozero/RobotWX/releases/download/0.0.2/RobotWX
 
 chmod 777 RobotWX
 
-./RobotWX --target https://qyapi.weixin.qq.com/ --insecure --address=0.0.0.0:8080
+./RobotWX --target https://qyapi.weixin.qq.com --insecure --address=0.0.0.0:8080
 
 
 ==================================================
